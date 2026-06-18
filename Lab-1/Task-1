@@ -1,0 +1,43 @@
+Task name: Research and write a detailed report about JAVA (history, uses, advantages, disadvantages, etc.).
+1.Introduction
+Java is a high-level, object-oriented programming language developed by Sun Microsystems in 1995. It is designed to be platform-independent, meaning programs written in Java can run on any system that has a Java Virtual Machine (JVM)________________________________________
+2. History of Java
+•	Java was developed by James Gosling and his team at Sun Microsystems. 
+•	Initially called Oak, it was later renamed Java. 
+•	Released officially in 1995. 
+•	Acquired by Oracle Corporation in 2010. 
+•	Popular due to its “Write Once, Run Anywhere (WORA)” capability. 
+________________________________________
+3. Features of Java
+•	Platform Independent – Runs on any OS via JVM 
+•	Object-Oriented – Uses classes and objects 
+•	Simple & Easy to Learn 
+•	Secure – No direct memory access 
+•	Robust – Strong memory management 
+•	Multithreaded – Can perform multiple tasks simultaneously 
+•	Distributed – Supports network-based applications________________________________________
+
+4. Uses of Java
+Java is widely used in many fields:
+•	Web Development (Spring, JSP, Servlets) 
+•	Mobile Applications (Android apps) 
+•	Desktop Applications 
+•	Enterprise Applications (banking systems, ERP) 
+•	Game Development 
+•	Cloud-based Applications 
+•	Big Data Technologies (Hadoop) ________________________________________
+5. Advantages of Java
+•	Platform independent 
+•	Large community support 
+•	High security 
+•	Rich API (Application Programming Interface) 
+•	Automatic garbage collection 
+•	Scalable and reliable 
+6. Disadvantages of Java
+•	Slower than low-level languages like C/C++ 
+•	Requires more memory 
+•	Verbose (more lines of code) 
+•	GUI development is less attractive compared to modern frameworks 
+•	Performance overhead due to JVM 
+7. Conclusion
+Java remains one of the most popular programming languages due to its reliability, security, and cross-platform capabilities. It is widely used in industry and continues to evolve with new technologies.
